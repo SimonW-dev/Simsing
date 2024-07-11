@@ -16,3 +16,5 @@ S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
 w
 G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e/d/ed67eb178d523a4b3f117dcbe0eda5196367ceec
+N
+src/main/kotlin/indexFinder.kt,1/c/1cded2b5a3b9712f9d7bed4441a320200056fd0c

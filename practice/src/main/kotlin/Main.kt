@@ -2,6 +2,7 @@ package org.example
 
 import kotlin.random.Random
 
+
 fun main() {
     /**
      * Make a list of 10 random numbers
@@ -12,4 +13,15 @@ fun main() {
 
     val randomList = List(10) { Random.nextInt(0, 10) }
     println("your random list is: $randomList")
+    println("gimme a numba")
+    val eingabe = readln().toInt()
+
+    for (x in randomList.indices) {
+        if (eingabe == randomList[x]) {
+            println("nummer an index: $x")
+        }
+    }
 }
+
+
+
