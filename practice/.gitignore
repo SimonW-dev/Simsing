@@ -12,6 +12,7 @@ build/
 .idea/sonarlint
 .idea/uiDesigner.xml
 .idea/gradle.xml
+.idea
 *.iws
 *.iml
 *.ipr
