@@ -1,4 +1,4 @@
-package org.example
+package hausaufgaben
 
 import kotlin.random.Random
 

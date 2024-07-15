@@ -16,5 +16,55 @@ S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
 w
 G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e/d/ed67eb178d523a4b3f117dcbe0eda5196367ceec
-N
-src/main/kotlin/indexFinder.kt,1/c/1cded2b5a3b9712f9d7bed4441a320200056fd0c
+K
+src/main/kotlin/übung_2.kt,5/9/5948655009aa02b93843aef5786f21c2b4f24153
+K
+src/main/kotlin/übung_1.kt,9/0/90ac3c11b6683deb71bed554c624fb45582e876f
+G
+src/main/kotlin/Book.kt,1/1/1125c29a0a9f38e4e8287e4dcb6f721ec41f3bea
+J
+src/main/kotlin/Library.kt,8/f/8f49d356fd3146d0d84264039d4463014f2959ff
+P
+ src/main/kotlin/Übungen/Book.kt,d/3/d381c60ac13c00c9e716246974b02c35a1e85984
+`
+0src/main/kotlin/Hausaufgaben/findNumberInList.kt,e/d/edf47847196e5d56f2cacff0d1ea89bb7a96fcd5
+S
+#src/main/kotlin/Übungen/Library.kt,4/f/4f9461452ac89d367d7f681a966208958db0ca27
+T
+$src/main/kotlin/Übungen/übung_1.kt,e/7/e7ab482a8c263e287d2469876ce0cdb17537833b
+P
+ src/main/kotlin/Uebungen/Book.kt,9/9/99681ddde8f0b0107d7a1de0ec5aa8fd2657feb1
+P
+ src/main/kotlin/übungen/Book.kt,1/c/1cb9a25defd733fac1dd27a565281c59a61bf992
+P
+ src/main/kotlin/uebungen/Book.kt,7/7/77c8a146673af9b55b244984e69e5958b9a37ac1
+`
+0src/main/kotlin/hausaufgaben/findNumberInList.kt,e/9/e93c7e2a8d624f5a28948b875cd98206fc8b0ea8
+S
+#src/main/kotlin/uebungen/Library.kt,b/c/bc5f036c0e4b0192b2404a54713be21aab209725
+P
+ src/main/kotlin/uebungen/Main.kt,1/c/1c6b2b936ee5d5c5fa2a9e02e99dfeb083cdd6e3
+Q
+!src/main/kotlin/uebungen/Genre.kt,b/b/bb2df1c76773b4a541328133542c680ea956b06f
+R
+"src/main/kotlin/uebungen/Medium.kt,7/7/77ce761cce3ac81bbaecba806a70bf5ae53258eb
+T
+$src/main/kotlin/uebungen/Magazine.kt,1/a/1a6f5c426c794f2496a8d437b1b0375c501b094e
+O
+src/main/kotlin/uebungen/DVD.kt,0/f/0f4d8c4dbf830d9b6fb5cb157ec6cf44df6bed7c
+Z
+*src/main/kotlin/uebungen/uebung_1/Genre.kt,7/f/7fe78b260a5aa5feceb35921ab9c27bceb399009
+Y
+)src/main/kotlin/uebungen/uebung_1/Book.kt,9/e/9ea06e1fcc704d08d20ad043affe2fdf3c4d32be
+]
+-src/main/kotlin/uebungen/uebung_1/Magazine.kt,2/5/25c1f74fb6d864e590af8ab44bb2732002f8afd5
+[
++src/main/kotlin/uebungen/uebung_1/Medium.kt,5/8/583099491412910cdaa345444e8675a3c6beb672
+Y
+)src/main/kotlin/uebungen/uebung_1/Main.kt,0/e/0e68c80e808c8a4e4c1f4684d8e2029867309041
+\
+,src/main/kotlin/uebungen/uebung_1/Library.kt,2/c/2cda7bbf0d2a53d51de37114f083c29ddda1db34
+X
+(src/main/kotlin/uebungen/uebung_1/DVD.kt,7/9/79d38f35a601d34e35c623b4a50a8b28c906c050
+Y
+)src/main/kotlin/uebungen/uebung_2/Main.kt,d/2/d2b690446d10edf48fcc387859ea1ef30d33f129
