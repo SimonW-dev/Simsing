@@ -1,8 +1,6 @@
 package uebungen.uebung_3.mediaTypes
 
 import uebungen.uebung_3.Genre
-import uebungen.uebung_3.borrowHistory.BorrowInfo
-import java.util.*
 
 open class Medium(
     val title : String,

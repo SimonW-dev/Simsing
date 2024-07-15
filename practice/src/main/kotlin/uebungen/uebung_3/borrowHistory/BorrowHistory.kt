@@ -1,6 +1,5 @@
 package uebungen.uebung_3.borrowHistory
 
-import uebungen.uebung_3.mediaTypes.Borrowable
 import uebungen.uebung_3.mediaTypes.Medium
 import java.util.*
 
