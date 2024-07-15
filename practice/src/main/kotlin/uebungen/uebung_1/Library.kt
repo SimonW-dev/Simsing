@@ -1,5 +1,7 @@
 package uebungen.uebung_1
 
+import uebungen.uebung_1.mediaTypes.Book
+
 class Library(val name : String, val inventory : MutableList<Book>) {
     val availableBooks : Int?
         get() {

@@ -1,5 +1,9 @@
 package uebungen.uebung_1
 
+import uebungen.uebung_1.mediaTypes.Book
+import uebungen.uebung_1.mediaTypes.DVD
+import uebungen.uebung_1.mediaTypes.Magazine
+
 
 fun main() {
     // convenience variables for readability

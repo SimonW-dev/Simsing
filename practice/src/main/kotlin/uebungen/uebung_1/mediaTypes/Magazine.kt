@@ -1,4 +1,6 @@
-package uebungen.uebung_1
+package uebungen.uebung_1.mediaTypes
+
+import uebungen.uebung_1.Genre
 
 class Magazine(title: String,
                val issueNo : Int,

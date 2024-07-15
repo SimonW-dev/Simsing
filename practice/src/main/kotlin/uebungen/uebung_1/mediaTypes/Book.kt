@@ -1,4 +1,6 @@
-package uebungen.uebung_1
+package uebungen.uebung_1.mediaTypes
+
+import uebungen.uebung_1.Genre
 
 class Book (title : String,
             val author : String,
