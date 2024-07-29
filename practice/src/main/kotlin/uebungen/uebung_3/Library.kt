@@ -50,6 +50,15 @@ class Library(val name : String, val inventory : MutableList<Medium>) {
         }
         return pages / numberOfBooks
     }
+
+    fun <R> map (transform: (Medium) -> R): List<R> {
+        val list = mutableListOf<R>()
+        inventory.forEach {
+            list.add(transform(it))
+        }
+
+        return emptyList()
+    }
 }
 
 class NoBooksInInventoryException(message : String) : Exception(message)

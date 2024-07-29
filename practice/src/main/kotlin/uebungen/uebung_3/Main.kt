@@ -25,7 +25,7 @@ fun main() {
     // Borrow History
     val borrowHistory = BorrowHistory()
 
-    // Testing
+    // Testing Borrow History
     //TODO wie kann man borrow History Einträge mit medium.borrowItem Kapseln, dass Einträge dynamisch managed werden?
     borrowHistory.addFirst(stormlightArchive)
     borrowHistory.addFirst(mathe)
@@ -33,6 +33,9 @@ fun main() {
     borrowHistory.addFirst(dvd)
 
     borrowHistory.map { println(it) }
+    println("-----")
+    println( borrowHistory.filter { it.medium.genre == Genre.BILDUNG } )
+
 
     println("-----")
     println( borrowHistory.getLast() )
@@ -44,4 +47,11 @@ fun main() {
     println("-----")
     borrowHistory.clear()
     borrowHistory.map { println(it) }
+
+    borrowHistory.map {  }
+
+    // Testing Library
+    library.map { println(it) }
+    library.inventory.map { println(it) }
+
 }

@@ -47,4 +47,16 @@ class BorrowHistory {
         }
         return list
     }
+
+    fun filter(transform: (BorrowInfo) -> Boolean): List<BorrowInfo> {
+        var currentNode = first
+        val list = mutableListOf<BorrowInfo>()
+        while (currentNode != null) {
+            if (transform(currentNode.borrowInfo)) {
+                list.add(currentNode.borrowInfo)
+            }
+            currentNode = currentNode.nextNode
+        }
+        return list
+    }
 }
